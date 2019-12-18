@@ -144,14 +144,14 @@ Fontmin.prototype.getFiles = function () {
  */
 Fontmin.plugins = [
     'glyph',
-    'ttf2eot',
-    'ttf2woff',
-    'ttf2woff2',
-    'ttf2svg',
+    // 'ttf2eot',
+    // 'ttf2woff',
+    // 'ttf2woff2',
+    // 'ttf2svg',
     'css',
-    'svg2ttf',
-    'svgs2ttf',
-    'otf2ttf'
+    // 'svg2ttf',
+    // 'svgs2ttf',
+    // 'otf2ttf'
 ];
 
 // export pkged plugins
