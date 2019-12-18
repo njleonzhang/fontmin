@@ -1,6 +1,6 @@
 {
   "name": "mp-fontmin",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "description": "Minify font seamlessly, font subsetter, webfont (eot, woff, svg) converter.",
   "main": "index.js",
   "keywords": [
